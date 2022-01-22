@@ -1,0 +1,16 @@
+C:\workspace\CadastroAlunos\bin\Debug\net5.0\CadastroAlunos.exe
+C:\workspace\CadastroAlunos\bin\Debug\net5.0\CadastroAlunos.deps.json
+C:\workspace\CadastroAlunos\bin\Debug\net5.0\CadastroAlunos.runtimeconfig.json
+C:\workspace\CadastroAlunos\bin\Debug\net5.0\CadastroAlunos.runtimeconfig.dev.json
+C:\workspace\CadastroAlunos\bin\Debug\net5.0\CadastroAlunos.dll
+C:\workspace\CadastroAlunos\bin\Debug\net5.0\ref\CadastroAlunos.dll
+C:\workspace\CadastroAlunos\bin\Debug\net5.0\CadastroAlunos.pdb
+C:\workspace\CadastroAlunos\obj\Debug\net5.0\CadastroAlunos.csproj.AssemblyReference.cache
+C:\workspace\CadastroAlunos\obj\Debug\net5.0\CadastroAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\CadastroAlunos\obj\Debug\net5.0\CadastroAlunos.AssemblyInfoInputs.cache
+C:\workspace\CadastroAlunos\obj\Debug\net5.0\CadastroAlunos.AssemblyInfo.cs
+C:\workspace\CadastroAlunos\obj\Debug\net5.0\CadastroAlunos.csproj.CoreCompileInputs.cache
+C:\workspace\CadastroAlunos\obj\Debug\net5.0\CadastroAlunos.dll
+C:\workspace\CadastroAlunos\obj\Debug\net5.0\ref\CadastroAlunos.dll
+C:\workspace\CadastroAlunos\obj\Debug\net5.0\CadastroAlunos.pdb
+C:\workspace\CadastroAlunos\obj\Debug\net5.0\CadastroAlunos.genruntimeconfig.cache
